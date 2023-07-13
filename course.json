@@ -13,6 +13,5 @@
   },
   "description": "Learn with an experienced product manager how you can become a product manager. Useful for anyone who wants to become but particularly for current software engineers looking to branch out.",
   "keywords": ["product manager", "pm", "program manager", "tech", "software", "tech hiring"],
-  "productionBaseUrl": "/complete-intro-to-product-management",
   "csvPath": "./out/lessons.csv"
 }
