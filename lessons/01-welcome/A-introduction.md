@@ -94,6 +94,7 @@ When I'm not working or developing new Frontend Masters courses, you'll find me 
 Catch up with me on social media! I'll be honest: I'm not great at responding at DMs. The best way to talk to me is just to tweet at me.
 
 - [Twitter][twitter]
+- [Bluesky][bluesky]
 - [LinkedIn][linkedin]
 - [GitHub][github]
 - [Peloton][pelo] (you have to be a member and signed in for this link to work)
@@ -101,6 +102,7 @@ Catch up with me on social media! I'll be honest: I'm not great at responding at
 And one last request! [Please star this repo][site]. It helps the course be more discoverable and with my fragile ego ⭐️
 
 [twitter]: https://twitter.com/holtbt
+[bluesky]: https://staging.bsky.app/profile/brianholt.me
 [issues]: https://github.com/btholt/complete-intro-to-product-management/issues
 [github]: https://github.com/btholt
 [linkedin]: https://www.linkedin.com/in/btholt/

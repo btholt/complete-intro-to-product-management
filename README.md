@@ -1,14 +1,3 @@
-# Complete Intro to Product Management
-
-## Intro
-
-Work in progress, to be taught for Frontend Masters on August 1 and 2, 2023. 
-
-[Click here for more details](https://frontendmasters.com/workshops/product-management/)
-
-## License
-
-CC-BY-NC-4.0
 
 <p align="center"><a href="fem"><img alt="pm logo" title="Product Management" src="./public/images/course-icon.png" /></a></p>
 
