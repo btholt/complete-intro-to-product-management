@@ -7,11 +7,11 @@ description: ""
    1. My journey to PM
    2. Why I like being a PM
    3. Who might consider becoming a PM
-   4. How do PMs feel productive
 2. What is Product Management
    1. PM'ing is about people
    2. PM, PM, PM, PMM, or TPM
    3. PM'ing varies across companies
+   4. How do PMs feel productive
 3. Stakeholder Management
    1. Who is a stakeholder
    2. How do we manage stakeholders

@@ -240,7 +240,7 @@ header .cta-btn {
   margin-bottom: 10px;
 }
 
-.lesson h2::after {
+.lesson h2::after, .lesson h3::after {
   content: "";
   display: block;
   height: 3px;
