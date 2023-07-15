@@ -32,4 +32,20 @@ Not as much applicable here but I wanted to call it out because the initialism P
 
 ## Okay, so what is a product manager then?
 
-TODO
+A product manager manages product.
+
+lol
+
+Okay, so really, a product manager does a lot of things but their job is primarily determining what the teams works on. They gather together ideas, prioritize what is important, and make plans for the team to accomplish those goals based on what resourcing is available. They are focused on what is going on now, what is coming soon, and researching what is further down on the horizon. They are working together with the organization to make sure what the team is working on "ladders up" to what the rest of the organization is working towards.
+
+Another important thing is that a PM is typically the person who fills whatever gaps the team has. They are the glue person. Your team doesn't have a project manager? Frequently the PM will do that. Your team doesn't have a marketer? You'll come up a marketing plan. I've even hopped on my team as an engineer to close out some important deadlines when the team has someone get sick at a bad time. You do what is most helpful to the team. 
+
+But if I can sum up what a PM does, I'd put the following:
+
+1. Ideates and organizes ideas from others as to what the team works on
+2. Prioritizes work
+3. Creates plans / roadmaps of the near future of what gets worked on
+4. Aligns their own team(s) to their own goals and the goals of the organization
+5. Whatever else their team needs from them to be effective.
+
+This is a general list. Certain organizations ask more of their PMs (like project management) while other organizations will split some of these responsiblites off to the engineering manager or other folks.
