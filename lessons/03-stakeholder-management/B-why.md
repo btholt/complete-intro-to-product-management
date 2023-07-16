@@ -19,4 +19,15 @@ In this situation should you do it? I would argue it is unlikely to increase pro
 
 ### Let's improve our API
 
-TODO: if we improve our API we break other people's apps, degrade users' experiences, and force devs to rewrite integrations
+Let's then fathom that we as a Google Maps look at our public API and decide there is some big improvements we can do. We can make it cheaper to run, easier to use, and easier to get started with. Seems like a slam dunk win, right? Let's break it down by stakeholders.
+
+This does benefit new developers to the platform. They get something that is easier to work with and more comphrensible to work with. That is certainly a benefit.
+
+This does benefit internal stakeholders as we get to run a "better" service for cheaper which is a benefit.
+
+This _can_ benefit existing developers using our platform. In theory if they maintain their apps it will be easier going forward but the big problem is that they will have to rewrite existing code that already works to keep up with your churn. Overall I would argue for most developers that is a net negative. Existing code that works is the best. Forcing them to rewrite it because you are choosing new patterns does not benefit them, it benefits you. You are choosing your needs over there's.
+
+Inevitably many developers will not upgrade their apps, either because they don't maintain them actively or because they will choose not to. This will mean that apps that were previously working will cease working which is negative for both the developers but also the end users of those apps.
+
+Another case where you need to weigh all the options. This is a very real problem I faced at Stripe: developers _really_ do not like changing code that deals with money and for good reason: bugs cost real money. Forcing them to rewrite sections is something we took super serious and avoided at all costs. If you wrote a Stripe in 2015 and left it untouched it very likely still works today because of how serious Stripe takes that commitment.
+
