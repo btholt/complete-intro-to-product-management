@@ -26,3 +26,7 @@ Adding color (red, green, etc.) can help and achieve similar effects. Just be ex
 ## Long doc? Table of contents
 
 Basically every word processor now allows you to add a dynamic table of contents. For really long docs I'd recommend it; it allows people to orient themselves and quickly get to the parts they want to. For short docs I'd leave it out as it's just noise for no benefit.
+
+## 🚨 Emojis 🚨
+
+This is going to depend on the culture of your company but emojis can be another tool for drawing attention to something as well as add a bit of levity to your doc (if that's appropriate.) I don't know if I'd use this at a bank but many tech companies keep it pretty light so chucking some emojis in here or there makes sense. My current company ❤️ emojis so I end up using them quite a bit.
