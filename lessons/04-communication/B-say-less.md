@@ -21,7 +21,7 @@ Both of these meetings are going to need some context sharing. But let's look at
 
 For product leadership, we are going to have to explain a bit of what Heroku is, what Kubernetes is, why this difference is preferable, and then do a pretty in-depth dive on the risk since that's very likely what they don't understand and need to know. After all that context we can get into what you need from them but without that context it would be a very confusing discussion for them.
 
-For engineering leadership, we can likely skip the "what is PaaS and what is Kubernetes" discussion
+For engineering leadership, we can likely skip the "what is PaaS and what is Kubernetes" discussion and head straight to what our product goals for this migration, the technical details of what is required, and then jump straight into implementation details and challenges.
 
 ## Reduce surface area
 
