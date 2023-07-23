@@ -37,7 +37,8 @@ description: ""
    2. Agendas and timeboxing
    3. Owning the space
    4. When to follow tangents, when to bring it back
-   5. EXERCISE: Draft a meeting agenda w/ timeboxes and goals
+   5. Come to the meeting with a plan; don't just ask open-ended questions
+   6. EXERCISE: Draft a meeting agenda w/ timeboxes and goals
 7. Metrics
    1. A little bit of stats
    2. A little bit of graphing
