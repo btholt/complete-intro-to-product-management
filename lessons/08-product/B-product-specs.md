@@ -1,0 +1,3 @@
+This document goes by many names: the product specification, proposal, sheet, etc. but we're going to call it a "spec" here. It is what you as a PM write to propose a project and get everyone aligned and moving in the right direction. I would argue that these are the most important docs you right (up there with the team charter docs.)
+
+I am going to give you some of my tips and tricks of making my product specs work but know this is also an inexact science. You can do things totally different still be successful. So take this as input into your system rather than treating this as law.
