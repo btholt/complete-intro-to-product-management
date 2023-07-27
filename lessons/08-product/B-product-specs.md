@@ -16,7 +16,7 @@ Assume people will start reading at the top and drop off the more you write. Gen
 6. Timelines
 7. Designs / Mocks
 8. Technical Concerns / Outstanding Questions
-9. Appendix / Additional Context
+9. Appendix 
 
 Some projects will have less than this, and some will have more. This is a loose framework to play with and adapt, not any sort of rules. You can reorder them as needed for you. You can add and subtract sections as necessary. Make it yours.
 
@@ -60,7 +60,7 @@ I encourage you to think about "when do we stop trying on this." It's a good tho
 
 > **Trap door decisions**: a decision that once you make it you can't go back. A good example could be deciding to build your app with React. It's a bit of a trap door because if you later decide to use Angular it requires a total app rewrite which usually means it's a non-starter.
 
-Identifying what it means to unravel a project is helpful and helps you recognize your ongoing cost after a project is released. Features that you launch have a cost and where possible I would urge you to experiment with news and rip out the things that don't work. Your rollback criteria will say something like "if we see low utilization and high churn we will spend a sprint disabling this feature" or something like that.
+Identifying what it means to unravel a project is helpful and helps you recognize your ongoing cost after a project is released. Features that you launch have a cost and where possible I would urge you to experiment with news and rip out the things that don't work. Your rollback criteria will say something like "if we see low utilization and high churn we will spend a sprint disabling this feature" or something like that. It is typically a good idea to put a date on these: "we will look at these metrics in six month and make a call." If you say, go ahead and just schedule a meeting so you don't forget.
 
 ### Timelines
 
@@ -68,7 +68,28 @@ This is answering the question of when. When you do expect what workstreams to h
 
 ### Designs and Mocks
 
-TODO
+Anything you can put here to help someone _see_ what you are doing is helpful. Drawings, designs, mocks, charts, graphs, emojis, any sort of visual representation. This can really drive home what people are getting from this product spec.
+
+My favorite and usual way of doing this is browser hacking (since I usually work on web properties.) I will open the project I'm working on in a browser and then edit the HTML and CSS to look like I want it to. Having been a frontend developer this is a very fast activity for me; lean into understanding and speed. It does not need to work, it does not need to be pretty, and it can be hand-wavey. You just want to give people the gist of what you want to do.
+
+Where browser hacking doesn't work I have taken screenshots and photoshopped them, particularly when it comes to iOS and Android apps since I'm not great at Kotlin or Swift.
+
+When that fails, I will usually use Google Drawing. If I need a bit more fidelity I will make a wireframe with Balsamiq. This is usually way too much fidelity (and therefore time) for too little benefit so I only do this when I am really trying to drive home a point. You just want to get your point across, not be a product designer. It's okay if it's 💩-y.
+
+If designs already exist for your project, just link them here instead.
+
+### Technical Concerns and Outstanding Questions
+
+Nearly always when you start projects you will still have big open questions. You do try to close these before you get to reviewing this product spec with folks but frequently there will be questions that just cannot be answered before you start getting into the weeds of implementation. This is the place to call those out. I find that helpful because it often aids in the finding of the answers. Someone can say "oh hey this is how you do that" and save you a bunch of work and can also say "this is so much worse than you think it is" and you can pivot or even scrap the project before you waste your team's time.
+
+Some caution here: I only list what I call _big rocks_ here. A big rock is a large, hard problem that is hard to move. This is not the place for small issues. If your outstanding questions section is massive, it can make your project look like it is more difficult than it is. Really only list issues here when they are big, pose risk, and it is worth calling attention to.
+
+### Appendix
+
+This is everything else. The above sections can't encompass every possible thing you will need to put into a spec and this catch-all at the end is helpful to capture things pertinent enough to call attention to but doesn't fit neatly in any other section I've talked about.
+
+Very frequently I will write _other_ docs for these sections and I will just link them here. Anything you can do to keep your spec shorter means more people will finish it.
 
 [kompose]: https://kompose.io/
 [compose]: https://docs.docker.com/compose/
+[balsamiq]: https://balsamiq.com/
