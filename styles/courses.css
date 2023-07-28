@@ -164,7 +164,7 @@ header .cta-btn {
 }
 
 .jumbotron h1 {
-  font-size: 50px;
+  font-size: 35px;
   margin-bottom: 20px;
 }
 
@@ -474,6 +474,10 @@ ol.sections-name .lesson-details {
 }
 
 @media (max-width: 600px) {
+  .navbar h1 {
+    font-size: 14px;
+  }
+
   .lesson-container {
     padding: 2px;
   }
