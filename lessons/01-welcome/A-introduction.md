@@ -49,13 +49,7 @@ description: ""
    1. Structuring a product spec
    2. User stories
    3. EXERCISE: Write a product spec
-9.  UX
-   1. Flow charts
-   2. How to sketch ideas
-   3. EXERCISE: Take your product spec, write a UX flow
-   4. Talking to people 101
-   5. EXERCISE: Let's walk someone through a really basic UX simple UX research session
-10.  Planning
+9.   Planning
    1. How different orgs align plans and fitting into that
    2. Using metrics and user stories to make concrete, completable tasks
    3. Prioritizing
