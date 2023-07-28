@@ -1,3 +1,17 @@
+---
+description: >-
+  Learn how to apply principles of good communication to technical writing,
+  emphasizing the importance of understanding your audience and delivering a
+  focused message. Discover the power of effective writing in influencing people
+  and organizations.
+keywords:
+  - technical writing
+  - principles of good communication
+  - audience understanding
+  - focused message
+  - influencing people
+  - power of effective writing
+---
 The previous chapter was all about principles of good communication, let's take these principles and apply them _specifically_ to technical writing.
 
 If you have never taken technical writing, it is wildly different than what most folks learn in high school to prepare them for the SAT or the ACT. Technical writing is all about how do I communicate my point effectively and efficiently and it is not about entertaining the user or making them think deeper or anything like that.

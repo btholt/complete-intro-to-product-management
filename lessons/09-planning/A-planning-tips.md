@@ -1,3 +1,21 @@
+---
+description: >-
+  Learn about effective planning strategies in the tech industry, including the
+  importance of having a plan, aligning with organizational culture, starting
+  the planning process, sourcing ideas from various stakeholders, following
+  themes, and structuring projects for completion. Find tips on milestone
+  setting, prioritization, and communicating future needs through the cutline.
+  Avoid common pitfalls by ensuring research and feasibility before adding
+  projects to the roadmap.
+keywords:
+  - tech company planning
+  - quarterly planning
+  - effective planning strategies
+  - aligning with organizational culture
+  - prioritization
+  - milestone setting
+  - communicating future needs
+---
 Planning, everyone's favorite thing to do at tech companies. We get ut si wrong so frequently that it become a bit of a meme.
 
 ![xckd talking about how to correctly estimate engineering tasks](/images/xkcd.png)

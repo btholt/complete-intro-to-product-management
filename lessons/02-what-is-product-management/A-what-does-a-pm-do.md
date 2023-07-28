@@ -1,5 +1,21 @@
 ---
-title: "What Does a PM Do"
+title: What Does a PM Do
+description: >-
+  Learn about the role of a product manager (PM) and its variations in different
+  companies, including project managers, technical program/product managers (TPM
+  or PMT), program managers, and product marketing managers (PMM). Discover the
+  primary responsibilities of a PM, such as ideation, prioritization, planning,
+  alignment, and filling gaps within the team.
+keywords:
+  - product manager
+  - PM
+  - project manager
+  - technical program manager
+  - TPM
+  - program manager
+  - product marketing manager
+  - PMM
+  - responsibilities
 ---
 
 > When I type "PM" in this course, I mean product manager. However anyone with a job title that has the initials "PM" is equally entitled to use the initialism PM. That said, I _usually_ see it refer to product managers.

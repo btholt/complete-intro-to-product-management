@@ -1,3 +1,19 @@
+---
+description: >-
+  Learn about the importance of metrics in product management, including
+  team/organization metrics and project metrics. Discover key metrics for
+  Netflix, such as sign-ups, retention, revenue, and watch-hours. Understand how
+  CSAT (Customer Satisfaction) is a relative metric that should be tracked but
+  not overemphasized.
+keywords:
+  - metrics
+  - product management
+  - team metrics
+  - organization metrics
+  - project metrics
+  - Netflix metrics
+  - customer satisfaction
+---
 Armed with some stats and graphs, let's chat about metrics. Metrics should be the numerical manifestation of what an outcome looks like to you. Is success a lot of people signing up? Is success less support tickets? Is success making users have to click less to achieve their intents? All of your product goals, planned features, and anything else you do and plan as a PM should manifest itself as changes in metrics. It's how you measure you and your team's success and validate you are doing the right things.
 
 ## Team / Organization Metrics

@@ -193,6 +193,7 @@ export async function getLesson(targetDir, targetFile) {
           return {
             attributes: data,
             html,
+            markdown: content,
             slug: targetFile,
             title,
             section,

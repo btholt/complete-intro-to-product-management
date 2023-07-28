@@ -1,3 +1,16 @@
+---
+description: >-
+  Learn the importance of basic stats for product managers and how it can
+  improve their understanding and storytelling with numbers. Topics covered
+  include sampling, p-values, and effective graphing techniques.
+keywords:
+  - stats
+  - basic stats for product managers
+  - sampling
+  - p-value
+  - importance of stats for PMs
+  - graphing techniques
+---
 ## Stats
 
 Look, I'm not a statistician. I didn't even take any stats classes until my master's program. Everything I've learned has been as-needed and generally I've always had a data team to work with to bounce ideas off of. So I'm not going to teach you stats. However I am going to tell you _should_ learn some basic stats as a PM. It will help you understand what is happening and be able to storytell with numbers better.

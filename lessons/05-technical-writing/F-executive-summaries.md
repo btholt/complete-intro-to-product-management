@@ -1,3 +1,18 @@
+---
+description: >-
+  Learn how to write effective document summaries that capture the main points
+  and encourage people to read your documents. Discover the concept of BLUF
+  (bottom-line up front) and its benefits in saving time and improving
+  communication. Find out how AI can help with summarization.
+keywords:
+  - document summaries
+  - BLUF
+  - bottom-line up front
+  - writing tips
+  - efficiency
+  - communication
+  - AI summarization
+---
 I am about to share with you the biggest superpower that I can offer your memo writing. If you can get good at this, you can quickly align a lot of people quickly. People will actually read the parts of docs that you want to. It's 🪄 magical ✨
 
 Here's our problem: we need to write long documents with lots of context to justify decisions. The context is necessary to both share context and to allow others to follow our logic. The bigger the decision, typically the longer the document. But people don't read long docs. Which is a problem because we need long docs for important decisions. So what can we do about this conundrum: we need long docs, we need people to read our docs, and people don't read long docs.

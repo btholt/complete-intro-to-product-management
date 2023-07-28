@@ -1,3 +1,15 @@
+---
+description: >-
+  Learn how to run a successful meeting by owning the space, managing tangents
+  effectively, and utilizing inoculation theory to address potential concerns
+  beforehand. These tips apply to both big companies and startups.
+keywords:
+  - successful meeting
+  - own the space
+  - manage tangents
+  - inoculation theory
+  - meeting tips
+---
 Here's a few notes on how to run a meeting successfully. Some of these can be pretty uncomfortable to some but I promise there's a way to do these tactfully without offending. It will again depend on where you are; my bias is being at big companies and working with executives in meetings with lots of people. At a startup some of these become less important but still are good skills to have.
 
 ## Own the space

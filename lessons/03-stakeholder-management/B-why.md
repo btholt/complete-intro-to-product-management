@@ -1,3 +1,18 @@
+---
+description: >-
+  Learn about the considerations involved in making product decisions and their
+  impact on stakeholders using examples from Google Maps, such as increasing
+  sponsored listings and improving the API. Explore the trade-offs between
+  generating more revenue and maintaining a positive user experience.
+keywords:
+  - product decisions
+  - stakeholders
+  - Google Maps
+  - sponsored listings
+  - revenue
+  - user experience
+  - API
+---
 Why do we care about doing this first? Because we are building our product for our stakeholders and we need to be mindful that every product decision we make doesn't just affect the users we are targeting but has a ripple effect to all of our users. It can be okay to trade off making something good for one stakeholder at the cost of the another but the point here is to be intentional. Let's make some examples (again using Maps).
 
 ### Let's make more money

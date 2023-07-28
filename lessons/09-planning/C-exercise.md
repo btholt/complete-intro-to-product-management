@@ -1,3 +1,24 @@
+---
+description: >-
+  Create a prioritized roadmap for the next quarter of a direct-to-consumer
+  e-bike company focused on growth and commuters. Key projects include making
+  bikes compatible with Strava, redesigning onboarding flow, adding racing-mode
+  for circular tracks, implementing dark mode for nighttime commuting, adding
+  child mode for safety, and fixing a timezone bug.
+keywords:
+  - direct-to-consumer e-bike company
+  - growth
+  - commuters
+  - bike tracking app
+  - onboarding flow redesign
+  - racing-mode
+  - dark mode
+  - child mode
+  - website performance
+  - API integration
+  - timezone bug
+  - prioritized roadmap
+---
 You are a product manager working on a direct-to-consumer e-bike company (think something like VanMoof, Cowboy or Veloretti.) People use your bikes for commuting, exercise, joy-riding, and racing (some use it for multiple reason, some just the one; you don't know how many are doing which so use your judgment on which are most important) You have a user base of 500,000 users who own one of your bicycles. You have available to work on your projects 8 engineers. You are planning for the next quarter and here are the projects that you and your team has come up with. Right now your company is focused on all-up growth and commuters.
 
 Here are the proposed tasks.

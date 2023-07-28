@@ -1,3 +1,17 @@
+---
+description: >-
+  Learn about prioritization methods for product managers, including the
+  Complexity vs Business Value matrix and the RICE Method. These frameworks help
+  assess the impact, risk, and cost of tasks, allowing you to prioritize
+  effectively.
+keywords:
+  - product manager prioritization
+  - prioritization methods
+  - complexity vs business value matrix
+  - RICE method
+  - impact risk cost
+  - product management frameworks
+---
 You will always have more work than you could ever possibly do. I have never met a PM that said "oh cool we are totally out of things to do." You will have more ideas, more features, new products, more tech debt, etc. to work on.
 
 So then a question becomes how to prioritize the right thing to work on. Frequently it is just obvious: X is mission critical, Y is almost done so let's finish it, or Z is on fire and we have to fix it. But sometimes it's less obvious: you have tasks V and W and they roughly seem to be equal priority. What do you do?

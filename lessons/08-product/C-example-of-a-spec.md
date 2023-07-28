@@ -1,3 +1,17 @@
+---
+description: >-
+  Netflix seeks to add a feature that allows users to watch shows together and
+  engage in synchronized video chats similar to FaceTime. The goal is to provide
+  a true living room chat experience for users while watching their favorite
+  shows, leveraging video-chat-enabled devices.
+keywords:
+  - Netflix
+  - watch shows together
+  - synchronized video chat
+  - living room chat
+  - FaceTime
+  - video-chat-enabled devices
+---
 Let's pretend for a moment you are a product manager at Netflix and your task is to add a feature that allows users to video chat (like Zoom or FaceTime) with someone and watch a synchronized stream of a show together. What would that spec look like before we got started with it? 
 
 Here's how I would write it (where I don't know things I'm just making it up):

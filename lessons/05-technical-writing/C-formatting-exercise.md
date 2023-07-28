@@ -1,3 +1,20 @@
+---
+description: >-
+  The checkout flow redesign project is slightly behind schedule due to
+  unexpected additional research and backend work. The team is incorporating UX
+  feedback by moving the checkout button to the center instead of the right,
+  aiming to alleviate user confusion. Although they will miss the end-of-quarter
+  target, they are only two weeks behind and can work concurrently with UX
+  research to expedite shipping.
+keywords:
+  - checkout flow redesign
+  - UX research
+  - project status update
+  - streamlined one-page checkout
+  - behind schedule
+  - user experience feedback
+  - end-of-quarter target
+---
 Exercise time!
 
 Without much modifying the content of this doc, add some formatting to help it drive it home for those reading the doc. Feel free to lightly edit and/or add spacing, but try to keep the content's spirit the same. This is an exercise in formatting.

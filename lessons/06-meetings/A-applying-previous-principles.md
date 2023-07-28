@@ -1,3 +1,18 @@
+---
+description: >-
+  Learn principles of effective communication in meetings and verbal,
+  synchronous communications. Cater your meetings to the participants, provide
+  the right amount of context, prepare efficiently, and focus on planning
+  instead of convincing those who already agree.
+keywords:
+  - communication
+  - meetings
+  - verbal communications
+  - synchronous communications
+  - meeting principles
+  - effective communication
+  - meeting preparation
+---
 The other critical type of communication that product managers do _a lot_ of is meetings. Whether it's meeting your engineers for a standup, presenting to potential customers, or just a weekly one-on-one with someone, having some principles of communication can help you a lot get done what you want to get done.
 
 Let's look at some of our previously discussed principles and apply them to meetings or otherwise verbal, synchronous communications.

@@ -1,3 +1,15 @@
+---
+description: >-
+  Learn how to create diagrams to visually organize and communicate complex
+  ideas, such as explaining an API migration. Tools like Google Drawings and
+  Excalidraw can help you easily create effective diagrams.
+keywords:
+  - diagrams
+  - API migration
+  - Google Drawings
+  - Excalidraw
+  - visual communication
+---
 A well made diagram can help a lot with understanding. It allows you to visually organize and tell a story that can be really, really hard to tell with words.
 
 Here's a real life diagram I made for explaining how we were going to migrate a project to a new SDK architecture by maintaining three packages: sdk-classic of all the old APIs, sdk with all the APIs in v1 and v2, and sdk-next with just v2 APIs. The interop is code to make v1 and v2 APIs work together. Once I showed people this diagram it instantly clicked for all of them. (GA means generally available, or that an API is deemed stable for public use.)

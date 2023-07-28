@@ -1,3 +1,19 @@
+---
+description: >-
+  Learn how to drive understanding in your documents by using formatting
+  effectively. Skim readers can quickly grasp the content through headings, bold
+  and color, while longer documents may benefit from a table of contents. Emojis
+  can also be used strategically to draw attention or add levity.
+keywords:
+  - formatting
+  - driving understanding
+  - skim readers
+  - headings
+  - bold
+  - color
+  - table of contents
+  - emojis
+---
 A simple hack to driving understanding is using formatting.
 
 Very few people are going to read word-for-word everything you put in a doc unless they are either confused and trying to understand or they extremely interested in what you are saying. **Most people skim docs.** They look for headers and images to try to get the gist of your doc and its contents and they will spend additional time on parts of the docs that catch their interests. You, as the writer, therefore have the dual duty of making sure your reader finds the part that they want to find _and_ find the point you are wanting them to walk away with.

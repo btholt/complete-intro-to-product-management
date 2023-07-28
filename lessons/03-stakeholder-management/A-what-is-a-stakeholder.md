@@ -1,3 +1,18 @@
+---
+description: >-
+  Learn about the importance of stakeholders in product management and how they
+  extend beyond just end users. Explore the diverse range of stakeholders
+  involved in a product like Google Maps, including end users, business owners,
+  third-party developers, and internal teams.
+keywords:
+  - product management
+  - stakeholders
+  - Google Maps
+  - end users
+  - business owners
+  - third-party developers
+  - internal teams
+---
 People.
 
 We mentioned this before but we are saying it again. Being a product manager is about people. Before we get into the mechanics of how to manage products I wanted to spend a moment talking about stakeholders. Stakeholders are the "who" when you are talking about about a product but it is a little more than just who is using your app: it is who is affected by your decisions when talking about your product. It is who cares about your product.

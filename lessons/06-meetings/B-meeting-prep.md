@@ -1,3 +1,18 @@
+---
+description: >-
+  Learn how to make your meetings more effective and productive by setting clear
+  intentions, creating an agenda, timeboxing discussions, making decisions
+  beforehand, and determining when to use slide decks. Improve meeting outcomes
+  with these practical tips.
+keywords:
+  - productive meetings
+  - meeting effectiveness
+  - setting intentions
+  - meeting agendas
+  - timeboxing discussions
+  - making decisions in meetings
+  - using slide decks
+---
 Not every meeting needs in-depth preparation. It's not really practical to think that that is possible. However you will get more from your meetings if you put a bit of forethought into what needs to get done in the span of time you have and what actions you hope to achieve afterwards.
 
 ## Set you intention

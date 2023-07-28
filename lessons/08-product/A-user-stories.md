@@ -1,3 +1,15 @@
+---
+description: >-
+  Learn the basics of product management through user stories and prioritizing
+  user needs. Validate user stories through research and keep users in mind
+  throughout the product development process.
+keywords:
+  - product management
+  - user stories
+  - prioritization
+  - research
+  - product development
+---
 As a learner who is interested in product management, I want a course to teach me the basics of what it means to be a product manager.
 
 That is a user story that (hopefully) represents you. When you are thinking about building products and features, you should start with user stories. I know it seems like a weird bit of process to go through but trust me that it is worth it. It forces you to enter a user's mindset and think through their problems and how they may wish a service might solve them. This sort of grounding in a user's mindset will serve you _very_ well. It forces you to think "how can I come to my user" rather than "how can I make my user come to me."

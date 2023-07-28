@@ -20,16 +20,20 @@ export default function LessonSlug({ post }) {
   const title = post.title
     ? `${post.title} – ${courseInfo.title}`
     : courseInfo.title;
-  const description = post.description
-    ? post.description
+  const description = post.attributes.description
+    ? post.attributes.description
     : courseInfo.description;
+
+  const keywords = post.attributes.keywords
+    ? post.attributes.keywords
+    : courseInfo.keywords;
 
   return (
     <>
       <Head>
         <title>{title}</title>
         <meta name="description" content={description}></meta>
-        {/* <meta name="keywords" content={courseInfo.keywords.join(",")}></meta> */}
+        <meta name="keywords" content={keywords.join(",")}></meta>
         <meta name="og:description" content={description}></meta>
         <meta name="og:title" content={title}></meta>
         <meta

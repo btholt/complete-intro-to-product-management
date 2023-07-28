@@ -1,3 +1,19 @@
+---
+description: >-
+  Learn about principles of good communication in product management, including
+  written communication and meetings. Understand the importance of knowing your
+  audience and tailoring your communication to get what you need from them.
+  Discover how to leverage opportunities for discovery by highlighting areas of
+  unknown and inviting audience input.
+keywords:
+  - product management
+  - good communication
+  - written communication
+  - meetings
+  - know your audience
+  - tailoring communication
+  - opportunities for discovery
+---
 We are now going to talk about principles of good communication when it comes to product management. We will shortly discuss how to apply these principles in both written communication and meetings / verbal communication.
 
 The first point I want to talk to you about is knowing your audience which dovetails nicely with our previous discussion about stakeholder management. You can think of this as a mini exercise in stakeholder management as we identify _who_ we are communicating with and how to speak to them to get what need from them and they in turn get what they need from us.

@@ -1,3 +1,18 @@
+---
+description: >-
+  Complete Intro to Product Management is a course taught by Brian Holt, a
+  product manager at Snowflake. The course provides an introduction to product
+  management and is designed for individuals already working in tech or looking
+  to break into product management.
+keywords:
+  - product management
+  - intro
+  - course
+  - Brian Holt
+  - Snowflake
+  - tech
+  - engineer
+---
 ## Who Am I
 
 Hello! And welcome to the first edition of the Complete Intro to Product Management as taught by [Brian Holt][twitter].

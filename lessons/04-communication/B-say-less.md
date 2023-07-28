@@ -1,3 +1,14 @@
+---
+description: >-
+  Learn how to provide the right amount of context in your communication, reduce
+  surface area by focusing on the topic at hand, avoid convincing people who are
+  already sold, prepare extensively but only share a fraction, and adopt a
+  direct and efficient writing style for technical communication.
+keywords:
+  - >-
+    context, communication, reducing surface area, efficiency, direct voice,
+    technical communication
+---
 ## The right amount of context
 
 With your audience now firmly in mind, you want to get them from where they are to where you want them to be in as few words as possible. Say less. However, you need to give them just enough context for them to be able to make an informed decision. This is a delicate balance but with some practice it becomes second nature.

@@ -1,3 +1,23 @@
+---
+description: >-
+  Learn how to write an effective product specification (spec) that proposes a
+  project and aligns everyone involved. This guide covers the important sections
+  of a spec, including the executive summary, problem statement, goals, key
+  metrics, rollback criteria, timelines, designs, technical concerns, and
+  appendix.
+keywords:
+  - product specification
+  - product spec
+  - project proposal
+  - executive summary
+  - problem statement
+  - goals
+  - key metrics
+  - rollback criteria
+  - timelines
+  - designs
+  - technical concerns
+---
 This document goes by many names: the product specification, proposal, sheet, etc. but we're going to call it a "spec" here. It is what you as a PM write to propose a project and get everyone aligned and moving in the right direction. I would argue that these are the most important docs you right (up there with the team charter docs.)
 
 > I am going to give you some of my tips and tricks of making my product specs work but know this is also an inexact science. You can do things totally different still be successful. So take this as input into your system rather than treating this as law. I've seen a myriad of varieties of how people write these and each of their own boons and downfalls. This is just my current thinking as of right now of how I write my product specs.

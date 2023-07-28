@@ -1,6 +1,25 @@
 ---
-description: ""
-title: "Why You Might Want To Be a PM"
+description: >-
+  Learn about the challenges and rewards of being a product manager. Discover
+  the difficulties in meetings and email management, adjusting to a different
+  sense of productivity, taking credit for collaborative work, and navigating
+  the uncertainty of deciding what to prioritize. Explore the enjoyable aspects,
+  including influencing what gets built, focusing on people-centered design,
+  embracing learning from mistakes, and experiencing a variety of engaging
+  tasks.
+title: Why You Might Want To Be a PM
+keywords:
+  - product manager
+  - challenges
+  - rewards
+  - meetings
+  - email management
+  - productivity
+  - taking credit
+  - decision making
+  - people-centered design
+  - learning from mistakes
+  - variety of work
 ---
 
 Let's talk about you. Why are you here? Why are you considering becoming a PM or trying to level up your product management skills?

@@ -1,3 +1,32 @@
+---
+description: >-
+  Switching frontend frameworks from Backbone to Solid.js for better
+  performance, easier recruitment, bug fixes, and faster development.
+  Implementing an A/B testing tool (VWO) to test UIs, turn off problematic
+  features, improve user experiences, and experiment faster. Convincing
+  stakeholders to choose a social share button design that is consistent with
+  the existing design system, allows code reuse, and aligns with the site's
+  aesthetics.
+keywords:
+  - frontend frameworks
+  - switching frameworks
+  - Solid.js
+  - performance
+  - recruitment
+  - bug fixes
+  - modern codebase
+  - A/B testing tool
+  - VWO
+  - UI testing
+  - feature control
+  - user experience
+  - experimentation
+  - social share button
+  - design selection
+  - consistency
+  - code reuse
+  - aesthetics
+---
 Let's do some practices
 
 ## Switching Frontend Frameworks
