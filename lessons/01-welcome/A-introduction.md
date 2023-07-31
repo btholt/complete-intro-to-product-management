@@ -33,11 +33,11 @@ I write these courses and take care to not make mistakes. However when teaching 
 
 ## Who am I
 
-My name is Brian Holt and I am a product manager at Snowflake. I work specifically on a project called Streamlit which allows data scientists and Python developers to write amazing data visualization and AI apps without the aid of a front end developer, empowering Python devs to do more. I have also works as a PM on developer tools and SDKs at Stripe as well as a PM on Visual Studio Code and Azure at Microsoft. Previous to being a PM I was a developer advocate at Microsoft and a staff software engineer at LinkedIn, Netflix, Reddit, and some other smaller companies.
+My name is Brian Holt and I am a product manager at Snowflake. I work specifically on a project called Streamlit which allows data scientists and Python developers to write amazing data visualization and AI apps without the aid of a front end developer, empowering Python devs to do more. I have also works as a PM on developer tools and SDKs at Stripe as well as a PM on Visual Studio Code and Azure at Microsoft. Previous to being a PM I was a developer advocate at Microsoft and a staff software engineer at LinkedIn, Netflix, Reddit, and some other smaller companies. I am now half-way through my MBA at Seattle University where I am focusing on executive leadership.
 
 I never thought I'd be a PM but I've been happily doing it for nearly half my career now. We'll get more into my journey later but I wanted to shine a light on my bias here: I wrote code for a long time and now I have been a PM of developer tools since then.
 
-When I'm not working or developing new Frontend Masters courses, you'll find me in Seattle, WA. I love to travel, hang out with my wife and son, get out of breath on my Peloton, play Dota 2 and Diablo IV poorly, as well as drink Islay Scotches, local IPAs and coffees.
+When I'm not working or developing new Frontend Masters courses, you'll find me in Seattle, WA. I love to snowboard, travel, hang out with my wife and son, get out of breath on my Peloton, play Dota 2 and Diablo IV poorly, as well as drink Islay Scotches, local IPAs and coffees.
 
 ![Brian teaching](./images/social-share-cover.jpg)
 
