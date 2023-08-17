@@ -16,22 +16,22 @@ keywords:
   - milestone setting
   - communicating future needs
 ---
-Planning, everyone's favorite thing to do at tech companies. We get ut si wrong so frequently that it become a bit of a meme.
+Planning, everyone's favorite thing to do at tech companies. We get it wrong so frequently that it becomes a bit of a meme.
 
 ![xckd talking about how to correctly estimate engineering tasks](/images/xkcd.png)
 <sup>By Randall Munroe on <a href="https://xkcd.com/1658/">xkcd</a></sup>
 
 If you are hoping that you are going to roll into this section and be revealed the golden secret of how to plan well, well, I have bad news for you. I am just as bad at it as everyone. Perhaps my only leg up is that I know I am just as bad as everyone else is and I just plan around the fact that plans are definitely going to change. And I do have some high level advice for when it comes to planning, so let's get to it.
 
-First, what kind of planning are we talking about? Generally I am speaking near-term planning. For every tech company I have worked for so far that has taken shape as quarterly planning. The way each of these companies has gone about doing this has varied quite a bit but the time frame has been consistent: planning for three months at a time, [usually centered around the fiscal quarters][quarter]. Because of that I am going to address you as if you are also doing some sort of quarterly planning but this principles would apply to doing half-year or full-year planning as well.
+First, what kind of planning are we talking about? Generally, I am speaking near-term planning. For every tech company I have worked for so far that has taken shape as quarterly planning. The way each of these companies has gone about doing this has varied quite a bit but the time frame has been consistent: planning for three months at a time, [usually centered around the fiscal quarters][quarter]. Because of that, I am going to address you as if you are also doing some sort of quarterly planning but this principle would apply to doing half-year or full-year planning as well.
 
 ## Plan
 
-First tidbit is you should plan. If you are at a startup and you are not doing some sort of planning, you should start, even if it is not for rigid quarters. Just having some sort of loose, prioritized roadmap that says "after we finish this task we plan to do this task" will keep your team on-task and executing on the most important things. Without some sort of plan you tend to suffer strongly from [recency bias][bias] where you tend to work on the things that you have been most recently thinking about which is not always the most effective thing. It is a useful task every so often to sit down with your team and say "did we do the right things? Are we doing the right things? Are we about to do the right things? What should we do later? What should we not do?"
+First tidbit is you should plan. If you are at a startup and you are not doing some sort of planning, you should start, even if it is not for rigid quarters. Just having some sort of loose, prioritized roadmap that says "after we finish this task we plan to do this task" will keep your team on-task and executing on the most important things. Without some sort of plan, you tend to suffer strongly from [recency bias][bias] where you tend to work on the things that you have been most recently thinking about which is not always the most effective thing. It is a useful task every so often to sit down with your team and say "did we do the right things? Are we doing the right things? Are we about to do the right things? What should we do later? What should we not do?"
 
 ## Fit into your org
 
-Assuming your company has some sort of culture around planning, my advice for you is to find a way to usefully plug into it. You can definitely bring your own spin and experience to it but the whole point of planning is to drive alignment across an organization. If you are off doing something that doesn't fit you are neither aligning to your sister teams nor are they going to view you as a reliable team to partner with. For me this has meant wildly changing my planning style each time I changed jobs. At Stripe I essentially just made team strategies while the eng managers made the plans and now I make nearly the whole plan myself.
+Assuming your company has some sort of culture around planning, my advice for you is to find a way to usefully plug into it. You can definitely bring your own spin and experience to it but the whole point of planning is to drive alignment across an organization. If you are off doing something that doesn't fit you are neither aligning to your sister teams nor are they going to view you as a reliable team to partner with. For me, this has meant wildly changing my planning style each time I changed jobs. At Stripe I essentially just made team strategies while the eng managers made the plans and now I make nearly the whole plan myself.
 
 ## Start
 
