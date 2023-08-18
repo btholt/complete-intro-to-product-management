@@ -10,6 +10,7 @@ keywords:
   - search
   - ordering experience
 ---
+
 ## Let's make it easier to order food on Google Maps
 
 You, as PM of Google Maps, are given the directive to make it easy to order food on the Google Maps interface. The story looks like this:
