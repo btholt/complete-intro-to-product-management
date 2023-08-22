@@ -32,4 +32,4 @@ Sometimes I'll go into a meeting, knowing _someone_ is going to bring up somethi
 
 It's a well-documented persuasion tool that makes your argument more compelling by pre-empting concerns. You are taking the wind out of their sails, so-to-speak.
 
-[it](https://en.wikipedia.org/wiki/Inoculation_theory)
+[it]: https://en.wikipedia.org/wiki/Inoculation_theory
