@@ -43,7 +43,7 @@ Your primary reasons for doing so are
 
 Your pitch is
 
-"Solid.js is a modern JavaScript framework that allows you to write flexible, composable, reactive code. It has many declarative primitives which allow you to embed reactive data directly in your templates. It is a component-based framework, and those components themselves do not carry their own states; rather, they have factory functions that allow them to generate derived data on the fly, something that our old Backbone code isn't able to do. All the industry has moved past Backbone, and it's time for us to keep with it by moving our frontends to Solid.js."
+"Solid.js is a modern JavaScript framework which allows you to write flexible, composable, reactive code. It has many declarative primitives which allow you to embed reactive data directly in your templates. It is a component based framework and those components themselves do not carry their own states; rather they have factory functions that allow them to generate derived data on the fly, something that our old Backbone code isn't able to do. All the industry has moved past Backbone and it's time for us to keep with it by moving our frontends to Solid.js."
 
 What is wrong with this approach? How could you rewrite it better?
 
@@ -60,7 +60,7 @@ Your primary reasons for doing so are
 
 Your pitch is
 
-"We are going to be implementing VWO as an A/B testing tool. We spent a lot of rounds doing research, kicking the tires on various tools, and looking into the feature sets of each product. Freshmarketer didn't integrate with all the tools we use internally. Due to Google competing in the same market, we did not feel like we could ship our data to them. HubSpot's offering offered too little in the way of feature richness. In the end, VWO's offering matched more closely to ours, and we believe it is the best tool we should move forward with."
+"We are going to be implementing VWO as an A/B testing tool. We spent a lot of rounds doing research, kicking the tires on various tools, and looking into the feature sets that each products. Freshmarketer didn't integrate with all the tools we use internally. Due to Google competing in the same market as we do we did not feel like we could ship our data to them. HubSpot's offering offered too little in the way of feature richness. In the end VWO's offering matched more closely to ours and we believe it is the best tool we should move forward with."
 
 What is wrong with this approach? How could you make it better?
 
@@ -77,6 +77,6 @@ Your primary reasons for so are
 
 Your pitch is
 
-"Hello fellow engineers, product managers, and designers. We are discussing today the possibility that we may indeed partake of the design created by yours truly to most masterfully achieve the outcomes our charter and team have been seeking so diligently. By adopting said treatment, a myriad of boons are but at our fingertips. Instead of the gaudy, garish proposal delivered to us by unfamiliar figures, such a proposal could have only been delivered by a product manager from within. Our current consistency with the tomes of design systems is threatened by such an ostentatious design, and I implore all of you to consider my proposal to right our ship into the horizons of tomorrow."
+"Hello fellow engineers, product managers, and designers. We discussing today the possibility that we may indeed partake of the design created by yours truly to be most masterfully achieve the outcomes our charter and team has been seeking so diligiently. By adopting said treatment a myriad of boons are but at our fingertips. Instead of the gaudy, garish proposal delivered to us by unfamiliar figures, such a proposal could have only been delivered by a product manager from within. Our current consistency with the tomes of design systems are threatened by such an ostentatious design and implore all of you to consider my proposal to right our ship into the horizons of tomorrow."
 
-First of all, I hate myself for writing that. Secondly, please identify what is wrong with it and how you can make it better.
+First of all, I hate myself for writing that. Secondly, please identify what is wrong with it an how you can make it better.
