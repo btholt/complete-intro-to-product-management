@@ -9,4 +9,5 @@ keywords:
   - project status
   - minor delay
 ---
-Again using the [formatting exercise](/lessons/technical-writing/formatting-exercise)'s memo, write an executive summary for it. Try to keep it to two sentences, three at most. Please try to write it yourself once, and then if you have time try having an AI helper summarize it and see how you differ.
+
+Again using the [formatting exercise](/lessons/technical-writing/formatting-exercise)'s memo, write an executive summary for it. Try to keep it to two sentences, three at most. Try to write it yourself once, and then if you have time, try having an AI helper summarize it and see how you differ.

@@ -27,18 +27,19 @@ keywords:
   - code reuse
   - aesthetics
 ---
-Let's do some practices
+
+Let's do some practice.
 
 ## Switching Frontend Frameworks
 
-You are pitching switching from Backbone to Solid.js (JavaScript frameworks, not important if you know anything about them) for the client-facing frontend of your e-commerce site to the VP of product, the CEO, and the VP of engineering of a 5,000 person company. This is a pitch to convince that you need to change frameworks.
+You are pitching switching from Backbone to Solid.js (JavaScript frameworks, not important if you know anything about them) for the client-facing frontend of your e-commerce site to the VP of product, the CEO, and the VP of engineering of a 5,000 person company. This is a pitch to convince them that they need to change frameworks.
 
 Your primary reasons for doing so are
 
 - You believe you will get better performance on your frontend
-- It is easier to recruit for Solid.js engineers
+- It is easier to recruit Solid.js engineers
 - Developers will get an opportunity to rewrite buggy parts of the code
-- You believe team will be able to move faster with a more modern codebase
+- You believe the team will be able to move faster with a more modern codebase
 
 Your pitch is
 
@@ -48,7 +49,7 @@ What is wrong with this approach? How could you rewrite it better?
 
 ## Implementing an A/B Testing Tool
 
-You are pitching implementing an A/B testing tool (if you don't know what that is, just Google it, fairly easy to find a good explanation.) The people you are sending a memo to are the engineers who are going to be working on the project on it as they get ready to start writing code. This is for them to gain context and ask questions as part of your project kick off.
+You are pitching implementing an A/B testing tool (if you don't know what that is, just Google it, fairly easy to find a good explanation.) The people you are sending a memo to are the engineers who will be working on the project as they get ready to start writing code. This is for them to gain context and ask questions as part of your project kick-off.
 
 Your primary reasons for doing so are
 
@@ -65,13 +66,13 @@ What is wrong with this approach? How could you make it better?
 
 ## Adding a Social Share Button to Classifieds App
 
-You are convincing a group of stakeholders of mixed engineers, product managers, and designers to pick your design on a social share button for a classified listing over another one proposed by a third party design agency. This is an email where people will weigh in and decide whether to choose your design or not.
+You are convincing a group of stakeholders of mixed engineers, product managers, and designers to pick your design on a social share button for a classified listing over another one proposed by a third-party design agency. This is an email where people will weigh in and decide whether or not to choose your design.
 
 Your primary reasons for so are
 
 - You like the design better
-- It is consisent with your design system wherease the other one is not
-- You can reuse existing code to implement it whereas the other does not
+- It is consistent with your design system, whereas the other one is not
+- You can reuse existing code to implement it, whereas the other does not
 - The other one is flashier but doesn't gel well with the existing site
 
 Your pitch is

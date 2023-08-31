@@ -13,11 +13,12 @@ keywords:
   - third-party developers
   - internal teams
 ---
+
 People.
 
 We mentioned this before, but we are saying it again. Being a product manager is about people. Before we get into the mechanics of managing products, I wanted to talk about stakeholders. Stakeholders are the "who" when talking about a product, but it is a little more than just who is using your app: it is who is affected by your decisions when talking about your product. It is who cares about your product.
 
-Let's take Google Maps. Fathom for a moment that you are the one PM working on Google Maps (Maps likely has dozen(s) of PMs, but let's simplify here.) Who are the stakeholders when it comes to Maps? You may be tempted to say "the users", but that is only a fraction of who cares about Maps. Here's a (likely incomplete) list of who could be considered stakeholders on Maps.
+Let's take Google Maps. Fathom for a moment that you are the one PM working on Google Maps (Maps likely has dozen(s) of PMs, but let's simplify here.) Who are the stakeholders when it comes to Maps? You may be tempted to say "the users," but that is only a fraction of who cares about Maps. Here's a (likely incomplete) list of who could be considered stakeholders on Maps.
 
 - End users
   - The navigating users
