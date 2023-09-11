@@ -5,13 +5,20 @@
   },
   "title": "Complete Intro to Product Management",
   "subtitle": "Learn to Become a Better PM",
-  "frontendMastersLink": "https://frontendmasters.com/workshops/product-management/",
+  "frontendMastersLink": "https://frontendmasters.com/courses/product-management/",
   "social": {
     "linkedin": "btholt",
     "github": "btholt",
     "twitter": "holtbt"
   },
   "description": "Learn with an experienced product manager how you can become a product manager. Useful for anyone who wants to become but particularly for current software engineers looking to branch out.",
-  "keywords": ["product manager", "pm", "program manager", "tech", "software", "tech hiring"],
+  "keywords": [
+    "product manager",
+    "pm",
+    "program manager",
+    "tech",
+    "software",
+    "tech hiring"
+  ],
   "csvPath": "./out/lessons.csv"
 }
